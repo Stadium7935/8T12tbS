@@ -1,3 +1,5 @@
-DOMAIN-SUFFIX,ehentai.org
+DOMAIN-SUFFIX,exhentai.org
 DOMAIN-SUFFIX,e-hentai.org
 DOMAIN-SUFFIX,e-hentaidb.com
+DOMAIN-KEYWORD,exhentai
+DOMAIN-KEYWORD,e-hentai
